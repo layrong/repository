@@ -1,1 +1,2 @@
-this is git readme.txt
+git is a version control system
+it is very useful for u
